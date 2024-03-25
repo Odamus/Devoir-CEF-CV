@@ -45,7 +45,7 @@ img {
 }
 
 div{
-    display: block;
+    display: flex;
     margin: auto;
 }
 

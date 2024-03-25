@@ -1,0 +1,29 @@
+main{
+    float: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    float: left;
+}
+
+#deux{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-basis: 180px;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
