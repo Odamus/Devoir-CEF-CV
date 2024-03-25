@@ -22,6 +22,8 @@ header {
     height: 20%;
     text-align: center;
     margin: auto;
+    color: white;
+    font-family: "Lato", sans-serif;
 }
 
 #image_1 {
@@ -53,3 +55,4 @@ footer{
     display: block;
     text-align: center;
 }
+
