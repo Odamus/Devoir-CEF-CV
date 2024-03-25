@@ -12,6 +12,7 @@ section{
     justify-content: flex-start;
     align-items: flex-start;
     float: left;
+    background-color: #782221;
 }
 
 #deux{
@@ -19,7 +20,6 @@ section{
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    flex-basis: 180px;
 }
 
 div{

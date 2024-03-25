@@ -8,3 +8,13 @@ h2 {
     width: cover;
     height: cover;
 }
+
+section{
+    background-color: #782221;
+    width: 25%;
+}
+
+#deux{
+    width: 75%;
+    background-color: white;
+}
