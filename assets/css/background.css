@@ -3,8 +3,13 @@ main{
 }
 
 body{
+    background-clip: content-box;
     background-color: #782221;
-    background-size: cover;
+    width: 1160px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid black;
+
 } 
 
 h2 {
@@ -21,4 +26,7 @@ section{
 #deux{
     width: 75%;
     background-color: white;
+    padding: 25px;
+    text-indent: 0px;
 }
+
