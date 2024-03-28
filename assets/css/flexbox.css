@@ -22,8 +22,14 @@ section{
     align-items: flex-start;
 }
 
-div{
+#Hautpage{
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: center;
+}
+
+#divbande{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
