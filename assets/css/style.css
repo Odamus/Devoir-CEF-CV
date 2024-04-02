@@ -36,7 +36,10 @@ header {
     height: 15%;
     border-radius: 50%;
     box-shadow: 0 0 30px rgb(179, 187, 211);
+}
 
+#image_1:hover{
+    cursor: zoom-in;
 }
 
 img {
@@ -75,4 +78,13 @@ footer{
 main{
     text-indent: 0%;
     width: 100%;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
 }
