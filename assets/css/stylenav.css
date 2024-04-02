@@ -1,0 +1,7 @@
+#image_1:hover{
+    cursor: zoom-in;
+}
+
+a:hover{
+    text-decoration: underline;
+}
