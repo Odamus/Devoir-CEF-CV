@@ -58,6 +58,7 @@ img {
 
 div{
     display: flex;
+    margin: auto;
 }
 
 #bandeinfo{
@@ -70,7 +71,7 @@ div{
     font-style: italic;
 }
 
-footer{
+footer{    
     margin-bottom: 16px;
     display: block;
     text-align: center;
@@ -91,4 +92,6 @@ a{
     text-decoration: none;
 }
 
-
+a:hover{
+    text-decoration: underline;
+}
