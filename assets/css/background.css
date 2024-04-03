@@ -21,6 +21,12 @@ h2 {
     padding-left: 25px;
 }
 
+#titrezoneblanche{
+    margin-top: 0px;
+    padding-left: 0px;
+    margin-bottom: 0px;
+}
+
 section{
     background-color: #782221;
     width: 25%;
