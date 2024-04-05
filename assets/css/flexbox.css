@@ -28,7 +28,7 @@ section{
     justify-content: center;
 }
 
-#divbande{
+.divbande{
     display: flex;
     flex-direction: row;
     margin: auto;
