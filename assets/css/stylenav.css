@@ -16,11 +16,10 @@ a:hover{
 }
 
 .hoverlist:hover::after {
-    content: '';
     position: absolute;
     top: 0;
-    right: -20px; /* Ajustez la valeur pour définir la distance du trait par rapport au texte */
+    right: -20px; 
     height: 100%;
-    width: 10px; /* Largeur du trait */
-    background-color: #800000; /* Couleur bordeaux */
+    width: 10px; 
+    background-color: #800000; 
     }
