@@ -5,7 +5,15 @@
     src: url('../fonts/Raleway-VariableFont_wght.ttf');
 }
 
+h1{
+    font-family: "Lato", sans-serif;
+}
+
 h2{
+    font-family: "Lato", sans-serif;
+}
+
+h3{
     font-family: "Lato", sans-serif;
 }
 
